@@ -18,11 +18,11 @@ Maar waarom programmeren? Kijk eens naar het filmpje hiernaast. [Mirjam Leunisse
 
 #### Dag 1: aan de slag
 
-1. [Installeer](/python/installatie) Python
+1. [Installeer](python/installatie) Python
 
-2. Oefen vervolgens goed met de [basiselementen](/python/basiselementen) van Python
+2. Oefen vervolgens goed met de [basiselementen](python/basiselementen) van Python
 
-3. <span class="label label-primary">Opdracht</span> Gebruik de computer als  [rekenwonder](/getaltheorie/rekenwonder)
+3. <span class="label label-primary">Opdracht</span> Gebruik de computer als  [rekenwonder](getaltheorie/rekenwonder)
 
 #### Dag 2: priemgetallen
 
@@ -51,4 +51,3 @@ Maar waarom programmeren? Kijk eens naar het filmpje hiernaast. [Mirjam Leunisse
 #### Evaluatie
 
 Ben je klaar met deze module? Help ons dan om deze te verbeteren: vul de [evaluatie](https://goo.gl/forms/gwRSgA3bBnpcAkME2){:target="_blank"} in.
-
