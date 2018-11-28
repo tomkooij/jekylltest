@@ -11,7 +11,7 @@ website using
 [git](https://git-scm.com).
 
 
-FOOBAR [test](Inhoud)
+FOOBAR [test foo](foo)
 
 For me, the painful aspects of making a website are
 
